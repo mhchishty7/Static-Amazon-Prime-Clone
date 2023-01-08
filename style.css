@@ -1,0 +1,147 @@
+
+@font-face{
+    font-family: "Amazon-Ember";
+    src: url("./Amazon\ Ember\ Display\ Italic.ttf");
+    
+
+}
+
+body{
+    margin:0;
+    background-color: black;
+    /* font-family:Arial, Helvetica, sans-serif; */
+    overflow-x: hidden;
+    font-family:"Amazon-Ember";
+}
+.header{
+    font-size: 18px;
+    height: 58px;
+    width: 100%;
+    background-image: linear-gradient(180deg,#1b2530 0,rgb(27, 37, 48));
+    position: fixed;
+    display: flex;
+    padding-top: 15px;
+    margin-bottom: 40px;
+    z-index: 1;
+}
+.left-header{
+    bottom: 20px;
+    width:1100px;
+}
+.logo{
+    height: 30px;
+    width: 100px;
+    padding-left: 65px;
+    padding-top: 5px;
+}
+/* .header-links{
+    padding-top: 15px;
+    margin-bottom: 40px;
+
+} */
+.links{
+   opacity: 90%;
+   color: #f2f4f6;
+   text-decoration: none;
+   padding-left: 20px;
+   text-decoration: none;
+   cursor: pointer;
+}
+.dropdown{
+    font-size: 17px;
+}
+/*  */
+.right-header{
+    width: 690px;
+    margin-top: 15px;
+    margin-left: 300px;
+    
+}
+.select{
+    font-size: 18px;
+    border: transparent;
+    color: white;
+
+}
+.button{
+    color:white;
+   
+}
+.free{
+    color: #f2f4f6;
+    background-color:#0f79af;
+}
+.day{
+    background-color: #0f79af;
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+    padding: 21px 50px;
+}
+
+.first{
+    padding-top: 60px;
+    position: relative;
+    color: white;
+}
+.first-text{
+    padding-top: 70px;
+    position: absolute;
+    font-size: x-large;
+    margin-left: 87px;
+}
+.m{
+    margin-left: 43px;
+}
+.sec{
+    padding-top: -10px;
+    position: relative;
+    color: #fff;
+}
+.sec-txt{
+    padding-top: 70px;
+    position: absolute;
+    font-size: x-large;
+    margin-left: 87px;
+}
+.rent{
+    background-color: #0f79af;
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+    padding: 21px 50px;
+
+}
+.four{
+    padding-top: -10px;
+    position: relative;
+    color: #fff;
+}
+.four-txt{
+    padding-top: 70px;
+    position: absolute;
+    font-size: x-large;
+    margin-left: 750px;
+}
+.get{
+    background-color: #0f79af;
+    font-size: 16px;
+    color: #fff;
+    text-align: center;
+    padding: 21px 50px;
+}
+.five{
+    padding-top: -10px;
+    position: relative;
+    color: #fff;
+}
+.five-test{
+    padding-top: 70px;
+    position: absolute;
+    font-size: x-large;
+    margin-left: 87px;
+}
+
+.foot1{
+    text-align: center;
+}
