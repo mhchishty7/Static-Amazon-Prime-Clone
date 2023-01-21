@@ -12,11 +12,5 @@ A search bar that allows users to search for content on the site
 Replicas of the different sections of the site, such as "Prime Video" or "Music," that show the same content and layout as the real site
 The ability for users to browse and view content on the site, but not to purchase items or access other functionality that would require a connection to the real Amazon Prime website.
 
-Features
-
-    Registered and Guest users can Watch the trailer of movies
-    Select movies in different languages
-    Only registered user can add movies and tv shows to their watchlist
-    While resetting the password registered user will receive email and through the link present inside the email user will reset the password
 
 
